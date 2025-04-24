@@ -2305,23 +2305,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KHANH NHAN\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\K24PF06\\Project1\\project\\ECommerceAllInOne\\ECommerceAllInOne.csproj",
+      "projectUniqueName": "D:\\dev\\K24PF06\\Project 1\\project\\ECommerceAllInOne\\ECommerceAllInOne.csproj",
       "projectName": "ECommerceAllInOne",
-      "projectPath": "C:\\dev\\K24PF06\\Project1\\project\\ECommerceAllInOne\\ECommerceAllInOne.csproj",
-      "packagesPath": "C:\\Users\\KHANH NHAN\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\K24PF06\\Project1\\project\\ECommerceAllInOne\\obj\\",
+      "projectPath": "D:\\dev\\K24PF06\\Project 1\\project\\ECommerceAllInOne\\ECommerceAllInOne.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\dev\\K24PF06\\Project 1\\project\\ECommerceAllInOne\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\KHANH NHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
